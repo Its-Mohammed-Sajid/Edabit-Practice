@@ -107,3 +107,4 @@
 // console.log(forObj({ 1: "Me", 2: "innocent", 3: "is" })) // ➞ "Me innocent is innocent"
 
 // console.log(forObj({ 1: "Must", 2: "lawyer", 3: "call" })) // ➞ "Must lawyer call lawyer"
+
